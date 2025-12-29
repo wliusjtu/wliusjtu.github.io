@@ -1,0 +1,41 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Wei Liu
+    - name: Languages
+      value: Chinese, English
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. in Engineering
+      institution: Shanghai Jiao Tong University
+      year: 2012 - 2019
+    - title: B.E. in Engineering
+      institution: Xi'an Jiao Tong University
+      year: 2008 - 2012
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Tenured Track Associate Professor / Doctoral Supervisor
+      institution: School of Automation and Intelligent Sensing, Shanghai Jiao Tong University
+      year: 2022 - Present
+    - title: Postdoctoral Researcher
+      institution: The University of Hong Kong
+      year: 2021 - 2022
+    - title: Postdoctoral Researcher
+      institution: The University of Adelaide
+      year: 2018 - 2021
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2023
+      items:
+        - National High-level Young Talent (国家高层次青年人才)
+        - Shanghai Overseas High-level Talent (上海市海外高层次人才)
+    - year: 2022
+      items:
+        - Shanghai Pujiang Talent (上海市浦江人才)
