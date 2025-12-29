@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://weiliusjtu.github.io/sitemap.xml
+Sitemap: https://wliusjtu.github.io/sitemap.xml
