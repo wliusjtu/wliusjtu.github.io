@@ -9,8 +9,8 @@ profile:
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Email: weiliucv@sjtu.edu.cn</p>
-    <p>Office: Electronic Information Building, Group 2-428</p>
+    <b>Email: weiliucv@sjtu.edu.cn</p>
+    <b>Office: Electronic Information Building, Group 2-428</p>
     <p>Shanghai Jiao Tong University</p>
     <p>Shanghai, China</p>
     <p><a href="https://scholar.google.com/citations?user=Vbb5EGIAAAAJ&hl=zh-CN" target="_blank">Google Scholar</a></p>
