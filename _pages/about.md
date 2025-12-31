@@ -1,26 +1,26 @@
 ---
 layout: about
 title: Home
-permalink: /
-subtitle: <a href='https://www.sjtu.edu.cn/'>Shanghai Jiao Tong University</a>. School of Automation and Intelligent Sensing. Tenured Track Associate Professor.
+#permalink: /
+#subtitle: <a href='https://www.sjtu.edu.cn/'>Shanghai Jiao Tong University</a>. School of Automation and Intelligent Sensing. Tenured Track Associate Professor.
 
 profile:
-  align: left
+  align: right
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <b> Dr. Wei Liu </b>
-    <b> Associate Professor, Ph.D Supervisor</b>
-    <b>Office:</b> <p>Room 2-428, SEIEE Building</p>
+    **Dr. Wei Liu**
+    <p><b> Associate Professor, Ph.D Supervisor</b></p>
+    <p><b>Office:</b> Room 2-428, SEIEE Building</p>
     <p>Shanghai Jiao Tong University</p>
-    <b>Email:</b> <p>weiliucv@sjtu.edu.cn</p>
-    <b><a href="https://scholar.google.com/citations?user=Vbb5EGIAAAAJ&hl=zh-CN" target="_blank">style="color:red"Google Scholar</a></b>
+    <p><b>Email:</b> weiliucv@sjtu.edu.cn</p>
+    <p><b><a href="https://scholar.google.com/citations?user=Vbb5EGIAAAAJ&hl=zh-CN" target="_blank">Google Scholar</a></b></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit:  # leave blank to include all the news in the `_news` folder
 
