@@ -5,17 +5,18 @@ permalink: /
 subtitle: <a href='https://www.sjtu.edu.cn/'>Shanghai Jiao Tong University</a>. School of Automation and Intelligent Sensing. Tenured Track Associate Professor.
 
 profile:
-  align: right
+  align: left
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <b>Email: weiliucv@sjtu.edu.cn</p>
-    <b>Office: Electronic Information Building, Group 2-428</p>
+    <b> Dr. Wei Liu </b>
+    <b> Associate Professor, Ph.D Supervisor</b>
+    <b>Office:</b> <p>Room 2-428, SEIEE Building</p>
     <p>Shanghai Jiao Tong University</p>
-    <p>Shanghai, China</p>
-    <p><a href="https://scholar.google.com/citations?user=Vbb5EGIAAAAJ&hl=zh-CN" target="_blank">Google Scholar</a></p>
+    <b>Email:</b> <p>weiliucv@sjtu.edu.cn</p>
+    <b><a href="https://scholar.google.com/citations?user=Vbb5EGIAAAAJ&hl=zh-CN" target="_blank">style="color:red"Google Scholar</a></b>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:
