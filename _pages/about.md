@@ -10,11 +10,11 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     **Dr. Wei Liu**
-    <p><b> Associate Professor, Ph.D Supervisor</b></p>
-    <p><b>Office:</b> Room 2-428, SEIEE Building</p>
+    <p> Associate Professor, Ph.D Supervisor</p>
+    <p>Office: Room 2-428, SEIEE Building</p>
     <p>Shanghai Jiao Tong University</p>
-    <p><b>Email:</b> weiliucv@sjtu.edu.cn</p>
-    <p><b><a href="https://scholar.google.com/citations?user=Vbb5EGIAAAAJ&hl=zh-CN" target="_blank">Google Scholar</a></b></p>
+    <p>Email: weiliucv@sjtu.edu.cn</p>
+    <p><b><a href="https://scholar.google.com/citations?user=Vbb5EGIAAAAJ&hl=zh-CN" target="_blank">Google Scholar</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
