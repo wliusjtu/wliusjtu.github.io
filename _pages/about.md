@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='https://www.sjtu.edu.cn/'>Shanghai Jiao Tong University</a>. School of Automation and Intelligent Sensing. Tenured Track Associate Professor.
+#subtitle: <a href='https://www.sjtu.edu.cn/'>Shanghai Jiao Tong University</a>. School of Automation and Intelligent Sensing. Tenured Track Associate Professor.
 
 profile:
   align: right
