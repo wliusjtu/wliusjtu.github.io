@@ -46,7 +46,7 @@ permalink: /
     <hr>
 
     <!-- 头像与个人信息 -->
-    <img src="profile.jpg" alt="Dr. Wei Liu" class="profile-img">
+    <img src="../readme_preview/WeiLiu.jpg" alt="Dr. Wei Liu" class="profile-img">
     <div class="contact-info">
         <h3>Dr. Wei Liu</h3>
         <p><strong>Associate Professor, PhD Supervisior</strong></p>
