@@ -14,6 +14,7 @@ profile:
     <p>Office: Room 2-428, SEIEE Building</p>
     <p>Shanghai Jiao Tong University</p>
     <p>Email: weiliucv@sjtu.edu.cn</p>
+
     <p><a href="https://scholar.google.com/citations?user=Vbb5EGIAAAAJ&hl=zh-CN" target="_blank"><b>Google Scholar</b></a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -32,7 +33,7 @@ latest_posts:
 
 I am an associate professor in Shanghai Jiao Tong University. Prior to joining Shanghai Jiao Tong University in 2022, I was a postdoc researcher in the Hong Kong University working with professor <a href="https://www.math.hkbu.edu.hk/~mng/">Michael Ng</a> during 2021 to 2022, and The University of Adelaide woring with professor <a href="https://cshen.github.io/">Chunhua Shen</a> and professor <a href="https://cs.adelaide.edu.au/~ianr/index.php">Ian Reid</a> during 2018 to 2021. I got my Ph.D degree from Shanghai Jiao Tong University in 2018 and the bachelor's degress from Xi'an Jiao Tong University in 2012. I was a joint-training Ph.D student at The University of Adelaide from 2017 to 2018.
 
-## Research Domains
+## Research Interests
 
 **3D Reconstruction, 3D Detection, Depth Estimation, Multimodal Large Models**
 
