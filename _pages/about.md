@@ -41,7 +41,7 @@ I am an associate professor in Shanghai Jiao Tong University. Prior to joining S
 
 ## Work Experience
 
-- **2022 - Now**: Tenured Track Associate Professor / Ph.D Supervisor, Shanghai Jiao Tong University
+- **2022 - Now**:  Associate Professor / Ph.D Supervisor, Shanghai Jiao Tong University
 - **2021 - 2022**: Postdoctoral Researcher, The University of Hong Kong
 - **2018 - 2021**: Postdoctoral Researcher, The University of Adelaide
 
