@@ -37,14 +37,12 @@ I am an associate professor in Shanghai Jiao Tong University. Prior to joining S
 **3D Reconstruction, 3D Detection, Depth Estimation, Multimodal Large Models**
 
 
-## Work Experience
+## News
 
-- **2022 - Now**:  Associate Professor / Ph.D Supervisor, Shanghai Jiao Tong University
-- **2021 - 2022**: Postdoctoral Researcher, The University of Hong Kong
-- **2018 - 2021**: Postdoctoral Researcher, The University of Adelaide
+- 11/2025 One paper gets accepted by AAAI
+- 09/2025 One paper gets accepted by TIP
+- 08/2025 Three papers get accepted by NN, TCSVT and ACM MM
+- 06/2025 One paper gets accepted by ICCV
+- 01/2025 Two papers get accepted by TCSVT
 
-## Education
-
-- **2012 - 2019**: Ph.D. in Engineering, Shanghai Jiao Tong University
-- **2008 - 2012**: B.E. in Engineering, Xi'an Jiao Tong University
 
