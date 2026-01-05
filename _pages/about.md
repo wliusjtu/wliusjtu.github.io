@@ -13,10 +13,8 @@ profile:
     <p>Associate Professor, Ph.D Supervisor</p>
     <p>Office: Room 2-428, SEIEE Building</p>
     <p>Shanghai Jiao Tong University</p>
-    <p>Email: weiliucv@sjtu.edu.cn</p>
-
-    <p><a href="https://scholar.google.com/citations?user=Vbb5EGIAAAAJ&hl=zh-CN" target="_blank"><b>Google Scholar</b></a></p>  
-    <p><a href="https://github.com/wliusjtu" target="_blank"><b>GitHub</b></a></p>  
+    <p>Email: weiliucv@sjtu.edu.cn</p><br>
+    <p><a href="https://scholar.google.com/citations?user=Vbb5EGIAAAAJ&hl=zh-CN" target="_blank"><b>Google Scholar</b></a></p> | <p><a href="https://github.com/wliusjtu" target="_blank"><b>GitHub</b></a></p>  
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
