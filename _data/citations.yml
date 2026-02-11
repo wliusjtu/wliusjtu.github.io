@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-30'
+  last_updated: '2026-02-11'
 papers:
   Vbb5EGIAAAAJ:-FonjvnnhkoC:
     citations: 5
@@ -14,7 +14,7 @@ papers:
     title: Mixed Gaussian Splatting for High-Quality Rendering and Reconstruction
     year: '2025'
   Vbb5EGIAAAAJ:4MWp96NkSFoC:
-    citations: 90
+    citations: 91
     title: Cascaded context pyramid for full-resolution 3d semantic scene completion
     year: '2019'
   Vbb5EGIAAAAJ:4hFrxpcac9AC:
@@ -26,11 +26,11 @@ papers:
     title: A generalized framework for edge-preserving and structure-preserving image smoothing
     year: '2022'
   Vbb5EGIAAAAJ:6ZxmRoH8BuwC:
-    citations: 10
+    citations: 12
     title: 'MambaMIM: Pre-training Mamba with state space token interpolation and its application to medical image segmentation'
     year: '2025'
   Vbb5EGIAAAAJ:86PQX7AUzd4C:
-    citations: 22
+    citations: 21
     title: 'CROON: Automatic Multi-LiDAR Calibration and Refinement Method in Road Scene'
     year: '2022'
   Vbb5EGIAAAAJ:9c2xU6iGI7YC:
@@ -54,7 +54,7 @@ papers:
     title: Variable bandwidth weighting for texture copy artifact suppression in guided depth upsampling
     year: '2016'
   Vbb5EGIAAAAJ:FAceZFleit8C:
-    citations: 6
+    citations: 5
     title: Automatic multi-LiDAR calibration and refinement method
     year: '2024'
   Vbb5EGIAAAAJ:GtLg2Ama23sC:
@@ -62,7 +62,7 @@ papers:
     title: 'Softclip: Softer cross-modal alignment makes clip stronger'
     year: '2023'
   Vbb5EGIAAAAJ:HtEfBTGE9r8C:
-    citations: 41
+    citations: 42
     title: 'Opus: occupancy prediction using a sparse set'
     year: '2024'
   Vbb5EGIAAAAJ:ILKRHgRFtOwC:
@@ -70,7 +70,7 @@ papers:
     title: Data driven robust image guided depth map restoration
     year: '2015'
   Vbb5EGIAAAAJ:IRz6iEL74y4C:
-    citations: 5
+    citations: 7
     title: 'Mobile U-ViT: Revisiting large kernel and U-shaped ViT for efficient medical image segmentation'
     year: '2025'
   Vbb5EGIAAAAJ:IUKN3-7HHlwC:
@@ -122,7 +122,7 @@ papers:
     title: 'Hyperfusion-Net: Hyper-densely reflective feature fusion for salient object detection'
     year: '2019'
   Vbb5EGIAAAAJ:VaXvl8Fpj5cC:
-    citations: 115
+    citations: 114
     title: Non-rigid object tracking via deep multi-scale spatial-temporal discriminative saliency maps
     year: '2020'
   Vbb5EGIAAAAJ:WJVC3Jt7v1AC:
@@ -158,7 +158,7 @@ papers:
     title: Region-based unsupervised low-light image enhancement in the wild with explicit domain supervision
     year: '2024'
   Vbb5EGIAAAAJ:anf4URPfarAC:
-    citations: 1
+    citations: 2
     title: Online LiDAR-camera extrinsic parameters self-checking and recalibration
     year: '2024'
   Vbb5EGIAAAAJ:b1wdh0AR-JQC:
@@ -206,7 +206,7 @@ papers:
     title: Self-paced learning with privileged information
     year: '2019'
   Vbb5EGIAAAAJ:sNmaIFBj_lkC:
-    citations: 21
+    citations: 23
     title: '3D-MMFN: Multi-level multimodal fusion network for 3D industrial image anomaly detection'
     year: '2025'
   Vbb5EGIAAAAJ:tYavs44e6CUC:
@@ -222,11 +222,11 @@ papers:
     title: Deep gated attention networks for large-scale street-level scene segmentation
     year: '2019'
   Vbb5EGIAAAAJ:umqufdRvDiIC:
-    citations: 5
+    citations: 7
     title: Consistency-guided adaptive alternating training for semi-supervised salient object detection
     year: '2025'
   Vbb5EGIAAAAJ:vDijr-p_gm4C:
-    citations: 72
+    citations: 73
     title: Salient object detection with lossless feature reflection and weighted structural loss
     year: '2019'
   Vbb5EGIAAAAJ:vbGhcppDl1QC:
