@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-02-18'
+  last_updated: '2026-03-06'
 papers:
   Vbb5EGIAAAAJ:-FonjvnnhkoC:
-    citations: 5
+    citations: 6
     title: Blur kernel estimation of noisy-blurred image via dynamic structure prior
     year: '2020'
   Vbb5EGIAAAAJ:0izLItjtcgwC:
-    citations: 9
+    citations: 10
     title: Image super-resolution via efficient transformer embedding frequency decomposition with restart
     year: '2024'
   Vbb5EGIAAAAJ:2VqYfGB8ITEC:
@@ -14,7 +14,7 @@ papers:
     title: Mixed Gaussian splatting for high-quality rendering and reconstruction
     year: '2025'
   Vbb5EGIAAAAJ:4MWp96NkSFoC:
-    citations: 91
+    citations: 93
     title: Cascaded context pyramid for full-resolution 3d semantic scene completion
     year: '2019'
   Vbb5EGIAAAAJ:4hFrxpcac9AC:
@@ -22,7 +22,7 @@ papers:
     title: 'Vb-kgn: Variational bayesian kernel generation networks for motion image deblurring'
     year: '2024'
   Vbb5EGIAAAAJ:5qfkUJPXOUwC:
-    citations: 154
+    citations: 156
     title: A generalized framework for edge-preserving and structure-preserving image smoothing
     year: '2022'
   Vbb5EGIAAAAJ:6ZxmRoH8BuwC:
@@ -58,11 +58,11 @@ papers:
     title: Automatic multi-LiDAR calibration and refinement method
     year: '2024'
   Vbb5EGIAAAAJ:GtLg2Ama23sC:
-    citations: 90
+    citations: 94
     title: 'Softclip: Softer cross-modal alignment makes clip stronger'
     year: '2023'
   Vbb5EGIAAAAJ:HtEfBTGE9r8C:
-    citations: 45
+    citations: 48
     title: 'Opus: occupancy prediction using a sparse set'
     year: '2024'
   Vbb5EGIAAAAJ:ILKRHgRFtOwC:
@@ -126,7 +126,7 @@ papers:
     title: Non-rigid object tracking via deep multi-scale spatial-temporal discriminative saliency maps
     year: '2020'
   Vbb5EGIAAAAJ:WJVC3Jt7v1AC:
-    citations: 6
+    citations: 7
     title: 'FIX-CLIP: Dual-Branch Hierarchical Contrastive Learning via Synthetic Captions for Better Understanding of Long Text'
     year: '2025'
   Vbb5EGIAAAAJ:WZBGuue-350C:
@@ -134,11 +134,11 @@ papers:
     title: 'RAPNet: Residual atrous pyramid network for importance-aware street scene parsing'
     year: '2020'
   Vbb5EGIAAAAJ:XvxMoLDsR5gC:
-    citations: 17
+    citations: 18
     title: '2M3DF: Advancing 3D Industrial Defect Detection With Multi-Perspective Multimodal Fusion Network'
     year: '2025'
   Vbb5EGIAAAAJ:Z5m8FVwuT1cC:
-    citations: 106
+    citations: 107
     title: Embedding bilateral filter in least squares for efficient edge-preserving image smoothing
     year: '2018'
   Vbb5EGIAAAAJ:_5tno0g5mFcC:
@@ -146,7 +146,7 @@ papers:
     title: 'STDepth: Leveraging semantic-textural information in transformers for self-supervised monocular depth estimation'
     year: '2025'
   Vbb5EGIAAAAJ:_FM0Bhl9EiAC:
-    citations: 47
+    citations: 48
     title: Recurrent multi-scale transformer for high-resolution salient object detection
     year: '2023'
   Vbb5EGIAAAAJ:_axFR9aDTf0C:
@@ -206,7 +206,7 @@ papers:
     title: Self-paced learning with privileged information
     year: '2019'
   Vbb5EGIAAAAJ:sNmaIFBj_lkC:
-    citations: 26
+    citations: 28
     title: '3D-MMFN: Multi-level multimodal fusion network for 3D industrial image anomaly detection'
     year: '2025'
   Vbb5EGIAAAAJ:tYavs44e6CUC:
@@ -222,7 +222,7 @@ papers:
     title: Deep gated attention networks for large-scale street-level scene segmentation
     year: '2019'
   Vbb5EGIAAAAJ:umqufdRvDiIC:
-    citations: 8
+    citations: 9
     title: Consistency-guided adaptive alternating training for semi-supervised salient object detection
     year: '2025'
   Vbb5EGIAAAAJ:vDijr-p_gm4C:
