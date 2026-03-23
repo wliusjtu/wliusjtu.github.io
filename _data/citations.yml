@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-18'
+  last_updated: '2026-03-23'
 papers:
   Vbb5EGIAAAAJ:-FonjvnnhkoC:
     citations: 6
@@ -14,7 +14,7 @@ papers:
     title: Mixed Gaussian splatting for high-quality rendering and reconstruction
     year: '2025'
   Vbb5EGIAAAAJ:4MWp96NkSFoC:
-    citations: 93
+    citations: 94
     title: Cascaded context pyramid for full-resolution 3d semantic scene completion
     year: '2019'
   Vbb5EGIAAAAJ:4hFrxpcac9AC:
@@ -30,11 +30,11 @@ papers:
     title: 'MambaMIM: Pre-training Mamba with state space token interpolation and its application to medical image segmentation'
     year: '2025'
   Vbb5EGIAAAAJ:86PQX7AUzd4C:
-    citations: 24
+    citations: 25
     title: 'CROON: Automatic Multi-LiDAR Calibration and Refinement Method in Road Scene'
     year: '2022'
   Vbb5EGIAAAAJ:9c2xU6iGI7YC:
-    citations: 17
+    citations: 18
     title: 'Gim: A million-scale benchmark for generative image manipulation detection and localization'
     year: '2025'
   Vbb5EGIAAAAJ:9pM33mqn1YgC:
@@ -58,11 +58,11 @@ papers:
     title: Automatic multi-LiDAR calibration and refinement method
     year: '2024'
   Vbb5EGIAAAAJ:GtLg2Ama23sC:
-    citations: 95
+    citations: 96
     title: 'Softclip: Softer cross-modal alignment makes clip stronger'
     year: '2023'
   Vbb5EGIAAAAJ:HtEfBTGE9r8C:
-    citations: 48
+    citations: 51
     title: 'Opus: occupancy prediction using a sparse set'
     year: '2024'
   Vbb5EGIAAAAJ:ILKRHgRFtOwC:
@@ -126,7 +126,7 @@ papers:
     title: Non-rigid object tracking via deep multi-scale spatial-temporal discriminative saliency maps
     year: '2020'
   Vbb5EGIAAAAJ:WJVC3Jt7v1AC:
-    citations: 7
+    citations: 8
     title: 'FIX-CLIP: Dual-Branch Hierarchical Contrastive Learning via Synthetic Captions for Better Understanding of Long Text'
     year: '2025'
   Vbb5EGIAAAAJ:WZBGuue-350C:
@@ -202,11 +202,11 @@ papers:
     title: Real-time Image Smoothing via Iterative Least Squares
     year: '2020'
   Vbb5EGIAAAAJ:p__nRnzSRKYC:
-    citations: 26
+    citations: 27
     title: Self-paced learning with privileged information
     year: '2019'
   Vbb5EGIAAAAJ:sNmaIFBj_lkC:
-    citations: 30
+    citations: 32
     title: '3D-MMFN: Multi-level multimodal fusion network for 3D industrial image anomaly detection'
     year: '2025'
   Vbb5EGIAAAAJ:tYavs44e6CUC:
@@ -238,6 +238,6 @@ papers:
     title: A generalized framework for edge-preserving and structure-preserving image smoothing
     year: '2020'
   Vbb5EGIAAAAJ:zLWjf1WUPmwC:
-    citations: 179
+    citations: 180
     title: Robust color guided depth map restoration
     year: '2016'
