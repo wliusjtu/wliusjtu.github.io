@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-23'
+  last_updated: '2026-03-30'
 papers:
   Vbb5EGIAAAAJ:-FonjvnnhkoC:
     citations: 6
@@ -21,12 +21,16 @@ papers:
     citations: 6
     title: 'Vb-kgn: Variational bayesian kernel generation networks for motion image deblurring'
     year: '2024'
+  Vbb5EGIAAAAJ:4vMrXwiscB8C:
+    citations: 0
+    title: 'Fore-Mamba3D: Mamba-based Foreground-Enhanced Encoding for 3D Object Detection'
+    year: '2026'
   Vbb5EGIAAAAJ:5qfkUJPXOUwC:
-    citations: 156
+    citations: 157
     title: A generalized framework for edge-preserving and structure-preserving image smoothing
     year: '2022'
   Vbb5EGIAAAAJ:6ZxmRoH8BuwC:
-    citations: 17
+    citations: 18
     title: 'MambaMIM: Pre-training Mamba with state space token interpolation and its application to medical image segmentation'
     year: '2025'
   Vbb5EGIAAAAJ:86PQX7AUzd4C:
@@ -34,7 +38,7 @@ papers:
     title: 'CROON: Automatic Multi-LiDAR Calibration and Refinement Method in Road Scene'
     year: '2022'
   Vbb5EGIAAAAJ:9c2xU6iGI7YC:
-    citations: 18
+    citations: 19
     title: 'Gim: A million-scale benchmark for generative image manipulation detection and localization'
     year: '2025'
   Vbb5EGIAAAAJ:9pM33mqn1YgC:
@@ -61,6 +65,10 @@ papers:
     citations: 96
     title: 'Softclip: Softer cross-modal alignment makes clip stronger'
     year: '2023'
+  Vbb5EGIAAAAJ:HIFyuExEbWQC:
+    citations: 0
+    title: 'AdaDepth: Exploiting Inherent Scene Information for Self-Supervised Depth Estimation in Dynamic Scenes'
+    year: '2026'
   Vbb5EGIAAAAJ:HtEfBTGE9r8C:
     citations: 51
     title: 'Opus: occupancy prediction using a sparse set'
@@ -70,7 +78,7 @@ papers:
     title: Data driven robust image guided depth map restoration
     year: '2015'
   Vbb5EGIAAAAJ:IRz6iEL74y4C:
-    citations: 8
+    citations: 10
     title: 'Mobile U-ViT: Revisiting large kernel and U-shaped ViT for efficient medical image segmentation'
     year: '2025'
   Vbb5EGIAAAAJ:IUKN3-7HHlwC:
@@ -138,7 +146,7 @@ papers:
     title: '2M3DF: Advancing 3D Industrial Defect Detection With Multi-Perspective Multimodal Fusion Network'
     year: '2025'
   Vbb5EGIAAAAJ:Z5m8FVwuT1cC:
-    citations: 108
+    citations: 109
     title: Embedding bilateral filter in least squares for efficient edge-preserving image smoothing
     year: '2018'
   Vbb5EGIAAAAJ:_5tno0g5mFcC:
@@ -193,6 +201,10 @@ papers:
     citations: 4
     title: Image deraining with adversarial residual refinement network
     year: '2021'
+  Vbb5EGIAAAAJ:mNrWkgRL2YcC:
+    citations: 0
+    title: 'D2S-RSG-SSD: Dual Double-Sampling with Random Sub-Samples Generation for Self-Supervised Real Image Denoising'
+    year: '2026'
   Vbb5EGIAAAAJ:mlAyqtXpCwEC:
     citations: 2
     title: 'CMF-IoU: Multi-Stage Cross-Modal Fusion 3D Object Detection with IoU Joint Prediction'
@@ -206,7 +218,7 @@ papers:
     title: Self-paced learning with privileged information
     year: '2019'
   Vbb5EGIAAAAJ:sNmaIFBj_lkC:
-    citations: 32
+    citations: 34
     title: '3D-MMFN: Multi-level multimodal fusion network for 3D industrial image anomaly detection'
     year: '2025'
   Vbb5EGIAAAAJ:tYavs44e6CUC:
@@ -222,7 +234,7 @@ papers:
     title: Deep gated attention networks for large-scale street-level scene segmentation
     year: '2019'
   Vbb5EGIAAAAJ:umqufdRvDiIC:
-    citations: 9
+    citations: 10
     title: Consistency-guided adaptive alternating training for semi-supervised salient object detection
     year: '2025'
   Vbb5EGIAAAAJ:vDijr-p_gm4C:
