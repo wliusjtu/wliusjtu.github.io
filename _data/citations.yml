@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-30'
+  last_updated: '2026-04-10'
 papers:
   Vbb5EGIAAAAJ:-FonjvnnhkoC:
     citations: 6
@@ -18,7 +18,7 @@ papers:
     title: Cascaded context pyramid for full-resolution 3d semantic scene completion
     year: '2019'
   Vbb5EGIAAAAJ:4hFrxpcac9AC:
-    citations: 6
+    citations: 7
     title: 'Vb-kgn: Variational bayesian kernel generation networks for motion image deblurring'
     year: '2024'
   Vbb5EGIAAAAJ:4vMrXwiscB8C:
@@ -38,7 +38,7 @@ papers:
     title: 'CROON: Automatic Multi-LiDAR Calibration and Refinement Method in Road Scene'
     year: '2022'
   Vbb5EGIAAAAJ:9c2xU6iGI7YC:
-    citations: 19
+    citations: 21
     title: 'Gim: A million-scale benchmark for generative image manipulation detection and localization'
     year: '2025'
   Vbb5EGIAAAAJ:9pM33mqn1YgC:
@@ -62,7 +62,7 @@ papers:
     title: Automatic multi-LiDAR calibration and refinement method
     year: '2024'
   Vbb5EGIAAAAJ:GtLg2Ama23sC:
-    citations: 96
+    citations: 99
     title: 'Softclip: Softer cross-modal alignment makes clip stronger'
     year: '2023'
   Vbb5EGIAAAAJ:HIFyuExEbWQC:
@@ -70,7 +70,7 @@ papers:
     title: 'AdaDepth: Exploiting Inherent Scene Information for Self-Supervised Depth Estimation in Dynamic Scenes'
     year: '2026'
   Vbb5EGIAAAAJ:HtEfBTGE9r8C:
-    citations: 51
+    citations: 52
     title: 'Opus: occupancy prediction using a sparse set'
     year: '2024'
   Vbb5EGIAAAAJ:ILKRHgRFtOwC:
@@ -78,7 +78,7 @@ papers:
     title: Data driven robust image guided depth map restoration
     year: '2015'
   Vbb5EGIAAAAJ:IRz6iEL74y4C:
-    citations: 10
+    citations: 12
     title: 'Mobile U-ViT: Revisiting large kernel and U-shaped ViT for efficient medical image segmentation'
     year: '2025'
   Vbb5EGIAAAAJ:IUKN3-7HHlwC:
@@ -114,7 +114,7 @@ papers:
     title: Unsupervised Image Restoration with Quality-Task-Perception Loss
     year: '2022'
   Vbb5EGIAAAAJ:QYdC8u9Cj1oC:
-    citations: 0
+    citations: 1
     title: 'SRS: Siamese Reconstruction-Segmentation Network Based on Dynamic-Parameter Convolution'
     year: '2025'
   Vbb5EGIAAAAJ:S16KYo8Pm5AC:
@@ -146,7 +146,7 @@ papers:
     title: '2M3DF: Advancing 3D Industrial Defect Detection With Multi-Perspective Multimodal Fusion Network'
     year: '2025'
   Vbb5EGIAAAAJ:Z5m8FVwuT1cC:
-    citations: 109
+    citations: 110
     title: Embedding bilateral filter in least squares for efficient edge-preserving image smoothing
     year: '2018'
   Vbb5EGIAAAAJ:_5tno0g5mFcC:
@@ -182,7 +182,7 @@ papers:
     title: Semantic scene labeling via deep nested level set
     year: '2020'
   Vbb5EGIAAAAJ:epqYDVWIO7EC:
-    citations: 69
+    citations: 70
     title: Semi-global weighted least squares in image filtering
     year: '2017'
   Vbb5EGIAAAAJ:g3aElNc5_aQC:
