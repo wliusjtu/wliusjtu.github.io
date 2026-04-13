@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-10'
+  last_updated: '2026-04-13'
 papers:
   Vbb5EGIAAAAJ:-FonjvnnhkoC:
     citations: 6
@@ -142,7 +142,7 @@ papers:
     title: 'RAPNet: Residual atrous pyramid network for importance-aware street scene parsing'
     year: '2020'
   Vbb5EGIAAAAJ:XvxMoLDsR5gC:
-    citations: 18
+    citations: 20
     title: '2M3DF: Advancing 3D Industrial Defect Detection With Multi-Perspective Multimodal Fusion Network'
     year: '2025'
   Vbb5EGIAAAAJ:Z5m8FVwuT1cC:
@@ -173,6 +173,10 @@ papers:
     citations: 73
     title: Improving video saliency detection via localized estimation and spatiotemporal refinement
     year: '2018'
+  Vbb5EGIAAAAJ:cWzG1nlazyYC:
+    citations: 0
+    title: Exploiting All Mamba Fusion for Efficient RGB-D Tracking
+    year: '2026'
   Vbb5EGIAAAAJ:dBIO0h50nwkC:
     citations: 1
     title: 'COTA-motion: Controllable image-to-video synthesis with dense semantic trajectories'
