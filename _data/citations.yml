@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-13'
+  last_updated: '2026-04-15'
 papers:
   Vbb5EGIAAAAJ:-FonjvnnhkoC:
     citations: 6
@@ -26,7 +26,7 @@ papers:
     title: 'Fore-Mamba3D: Mamba-based Foreground-Enhanced Encoding for 3D Object Detection'
     year: '2026'
   Vbb5EGIAAAAJ:5qfkUJPXOUwC:
-    citations: 157
+    citations: 158
     title: A generalized framework for edge-preserving and structure-preserving image smoothing
     year: '2022'
   Vbb5EGIAAAAJ:6ZxmRoH8BuwC:
@@ -214,7 +214,7 @@ papers:
     title: 'CMF-IoU: Multi-Stage Cross-Modal Fusion 3D Object Detection with IoU Joint Prediction'
     year: '2025'
   Vbb5EGIAAAAJ:oNZyr7d5Mn4C:
-    citations: 134
+    citations: 136
     title: Real-time Image Smoothing via Iterative Least Squares
     year: '2020'
   Vbb5EGIAAAAJ:p__nRnzSRKYC:
