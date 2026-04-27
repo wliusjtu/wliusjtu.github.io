@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-04-15'
+  last_updated: '2026-04-27'
 papers:
   Vbb5EGIAAAAJ:-FonjvnnhkoC:
     citations: 6
     title: Blur kernel estimation of noisy-blurred image via dynamic structure prior
     year: '2020'
   Vbb5EGIAAAAJ:0izLItjtcgwC:
-    citations: 11
+    citations: 12
     title: Image super-resolution via efficient transformer embedding frequency decomposition with restart
     year: '2024'
   Vbb5EGIAAAAJ:2VqYfGB8ITEC:
-    citations: 1
+    citations: 2
     title: Mixed Gaussian splatting for high-quality rendering and reconstruction
     year: '2025'
   Vbb5EGIAAAAJ:4MWp96NkSFoC:
@@ -26,11 +26,11 @@ papers:
     title: 'Fore-Mamba3D: Mamba-based Foreground-Enhanced Encoding for 3D Object Detection'
     year: '2026'
   Vbb5EGIAAAAJ:5qfkUJPXOUwC:
-    citations: 158
+    citations: 159
     title: A generalized framework for edge-preserving and structure-preserving image smoothing
     year: '2022'
   Vbb5EGIAAAAJ:6ZxmRoH8BuwC:
-    citations: 18
+    citations: 22
     title: 'MambaMIM: Pre-training Mamba with state space token interpolation and its application to medical image segmentation'
     year: '2025'
   Vbb5EGIAAAAJ:86PQX7AUzd4C:
@@ -62,7 +62,7 @@ papers:
     title: Automatic multi-LiDAR calibration and refinement method
     year: '2024'
   Vbb5EGIAAAAJ:GtLg2Ama23sC:
-    citations: 99
+    citations: 100
     title: 'Softclip: Softer cross-modal alignment makes clip stronger'
     year: '2023'
   Vbb5EGIAAAAJ:HIFyuExEbWQC:
@@ -70,7 +70,7 @@ papers:
     title: 'AdaDepth: Exploiting Inherent Scene Information for Self-Supervised Depth Estimation in Dynamic Scenes'
     year: '2026'
   Vbb5EGIAAAAJ:HtEfBTGE9r8C:
-    citations: 52
+    citations: 53
     title: 'Opus: occupancy prediction using a sparse set'
     year: '2024'
   Vbb5EGIAAAAJ:ILKRHgRFtOwC:
@@ -78,7 +78,7 @@ papers:
     title: Data driven robust image guided depth map restoration
     year: '2015'
   Vbb5EGIAAAAJ:IRz6iEL74y4C:
-    citations: 12
+    citations: 14
     title: 'Mobile U-ViT: Revisiting large kernel and U-shaped ViT for efficient medical image segmentation'
     year: '2025'
   Vbb5EGIAAAAJ:IUKN3-7HHlwC:
@@ -106,7 +106,7 @@ papers:
     title: 'Fastc: A fast attentional framework for semantic traversability classification using point cloud'
     year: '2024'
   Vbb5EGIAAAAJ:OTTXONDVkokC:
-    citations: 1
+    citations: 2
     title: Inter-modality feature prediction through multimodal fusion for 3D shape defect detection
     year: '2026'
   Vbb5EGIAAAAJ:PVjk1bu6vJQC:
@@ -134,7 +134,7 @@ papers:
     title: Non-rigid object tracking via deep multi-scale spatial-temporal discriminative saliency maps
     year: '2020'
   Vbb5EGIAAAAJ:WJVC3Jt7v1AC:
-    citations: 8
+    citations: 9
     title: 'FIX-CLIP: Dual-Branch Hierarchical Contrastive Learning via Synthetic Captions for Better Understanding of Long Text'
     year: '2025'
   Vbb5EGIAAAAJ:WZBGuue-350C:
@@ -142,7 +142,7 @@ papers:
     title: 'RAPNet: Residual atrous pyramid network for importance-aware street scene parsing'
     year: '2020'
   Vbb5EGIAAAAJ:XvxMoLDsR5gC:
-    citations: 20
+    citations: 23
     title: '2M3DF: Advancing 3D Industrial Defect Detection With Multi-Perspective Multimodal Fusion Network'
     year: '2025'
   Vbb5EGIAAAAJ:Z5m8FVwuT1cC:
@@ -154,7 +154,7 @@ papers:
     title: 'STDepth: Leveraging semantic-textural information in transformers for self-supervised monocular depth estimation'
     year: '2025'
   Vbb5EGIAAAAJ:_FM0Bhl9EiAC:
-    citations: 48
+    citations: 49
     title: Recurrent multi-scale transformer for high-resolution salient object detection
     year: '2023'
   Vbb5EGIAAAAJ:_axFR9aDTf0C:
@@ -210,11 +210,11 @@ papers:
     title: 'D2S-RSG-SSD: Dual Double-Sampling with Random Sub-Samples Generation for Self-Supervised Real Image Denoising'
     year: '2026'
   Vbb5EGIAAAAJ:mlAyqtXpCwEC:
-    citations: 2
+    citations: 3
     title: 'CMF-IoU: Multi-Stage Cross-Modal Fusion 3D Object Detection with IoU Joint Prediction'
     year: '2025'
   Vbb5EGIAAAAJ:oNZyr7d5Mn4C:
-    citations: 136
+    citations: 137
     title: Real-time Image Smoothing via Iterative Least Squares
     year: '2020'
   Vbb5EGIAAAAJ:p__nRnzSRKYC:
@@ -222,7 +222,7 @@ papers:
     title: Self-paced learning with privileged information
     year: '2019'
   Vbb5EGIAAAAJ:sNmaIFBj_lkC:
-    citations: 34
+    citations: 37
     title: '3D-MMFN: Multi-level multimodal fusion network for 3D industrial image anomaly detection'
     year: '2025'
   Vbb5EGIAAAAJ:tYavs44e6CUC:
