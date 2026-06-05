@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-01'
+  last_updated: '2026-06-05'
 papers:
   Vbb5EGIAAAAJ:-FonjvnnhkoC:
     citations: 6
@@ -18,7 +18,7 @@ papers:
     title: 'T-Code: Simple Temporal Latent Code for Efficient Dynamic View Synthesis'
     year: '2024'
   Vbb5EGIAAAAJ:4MWp96NkSFoC:
-    citations: 95
+    citations: 96
     title: Cascaded context pyramid for full-resolution 3d semantic scene completion
     year: '2019'
   Vbb5EGIAAAAJ:4hFrxpcac9AC:
@@ -38,11 +38,11 @@ papers:
     title: 'MambaMIM: Pre-training Mamba with state space token interpolation and its application to medical image segmentation'
     year: '2025'
   Vbb5EGIAAAAJ:86PQX7AUzd4C:
-    citations: 27
+    citations: 28
     title: 'CROON: Automatic Multi-LiDAR Calibration and Refinement Method in Road Scene'
     year: '2022'
   Vbb5EGIAAAAJ:9c2xU6iGI7YC:
-    citations: 23
+    citations: 24
     title: 'Gim: A million-scale benchmark for generative image manipulation detection and localization'
     year: '2025'
   Vbb5EGIAAAAJ:9pM33mqn1YgC:
@@ -70,7 +70,7 @@ papers:
     title: Automatic multi-LiDAR calibration and refinement method
     year: '2024'
   Vbb5EGIAAAAJ:GtLg2Ama23sC:
-    citations: 102
+    citations: 103
     title: 'Softclip: Softer cross-modal alignment makes clip stronger'
     year: '2023'
   Vbb5EGIAAAAJ:HIFyuExEbWQC:
@@ -170,7 +170,7 @@ papers:
     title: Non-rigid object tracking via deep multi-scale spatial-temporal discriminative saliency maps
     year: '2020'
   Vbb5EGIAAAAJ:WJVC3Jt7v1AC:
-    citations: 10
+    citations: 11
     title: 'FIX-CLIP: Dual-Branch Hierarchical Contrastive Learning via Synthetic Captions for Better Understanding of Long Text'
     year: '2025'
   Vbb5EGIAAAAJ:WZBGuue-350C:
@@ -178,7 +178,7 @@ papers:
     title: 'RAPNet: Residual atrous pyramid network for importance-aware street scene parsing'
     year: '2020'
   Vbb5EGIAAAAJ:XvxMoLDsR5gC:
-    citations: 27
+    citations: 28
     title: '2M3DF: Advancing 3D Industrial Defect Detection With Multi-Perspective Multimodal Fusion Network'
     year: '2025'
   Vbb5EGIAAAAJ:Z5m8FVwuT1cC:
@@ -197,6 +197,10 @@ papers:
     citations: 0
     title: Online LiDAR-Camera Extrinsic Parameters Self-checking
     year: '2022'
+  Vbb5EGIAAAAJ:a3BOlSfXSfwC:
+    citations: 0
+    title: 'ProSM: Progressive Soft Masking for Fine-Grained Remote Image Segmentation'
+    year: '2026'
   Vbb5EGIAAAAJ:a9-T7VOCCH8C:
     citations: 9
     title: Region-based unsupervised low-light image enhancement in the wild with explicit domain supervision
