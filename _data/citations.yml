@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-05'
+  last_updated: '2026-06-19'
 papers:
   Vbb5EGIAAAAJ:-FonjvnnhkoC:
     citations: 6
@@ -30,7 +30,7 @@ papers:
     title: 'Fore-Mamba3D: Mamba-based Foreground-Enhanced Encoding for 3D Object Detection'
     year: '2026'
   Vbb5EGIAAAAJ:5qfkUJPXOUwC:
-    citations: 163
+    citations: 164
     title: A generalized framework for edge-preserving and structure-preserving image smoothing
     year: '2022'
   Vbb5EGIAAAAJ:6ZxmRoH8BuwC:
@@ -42,7 +42,7 @@ papers:
     title: 'CROON: Automatic Multi-LiDAR Calibration and Refinement Method in Road Scene'
     year: '2022'
   Vbb5EGIAAAAJ:9c2xU6iGI7YC:
-    citations: 24
+    citations: 25
     title: 'Gim: A million-scale benchmark for generative image manipulation detection and localization'
     year: '2025'
   Vbb5EGIAAAAJ:9pM33mqn1YgC:
@@ -50,7 +50,7 @@ papers:
     title: Towards Better Data Exploitation in Self-Supervised Monocular Depth Estimation
     year: '2023'
   Vbb5EGIAAAAJ:BwyfMAYsbu0C:
-    citations: 50
+    citations: 49
     title: Salient object detection by lossless feature reflection
     year: '2018'
   Vbb5EGIAAAAJ:DJbcl8HfkQkC:
@@ -62,15 +62,19 @@ papers:
     title: 'Mambamim: Pre-training mamba with state space token-interpolation'
     year: '2024'
   Vbb5EGIAAAAJ:EYYDruWGBe4C:
-    citations: 27
+    citations: 28
     title: Variable bandwidth weighting for texture copy artifact suppression in guided depth upsampling
     year: '2016'
+  Vbb5EGIAAAAJ:F9fV5C73w3QC:
+    citations: 0
+    title: 'RoSAMDepth: Robust Self-supervised Depth Estimation Leveraging Segment Anything Model'
+    year: '2026'
   Vbb5EGIAAAAJ:FAceZFleit8C:
     citations: 8
     title: Automatic multi-LiDAR calibration and refinement method
     year: '2024'
   Vbb5EGIAAAAJ:GtLg2Ama23sC:
-    citations: 103
+    citations: 104
     title: 'Softclip: Softer cross-modal alignment makes clip stronger'
     year: '2023'
   Vbb5EGIAAAAJ:HIFyuExEbWQC:
@@ -94,7 +98,7 @@ papers:
     title: Data driven robust image guided depth map restoration
     year: '2015'
   Vbb5EGIAAAAJ:IRz6iEL74y4C:
-    citations: 19
+    citations: 21
     title: 'Mobile U-ViT: Revisiting large kernel and U-shaped ViT for efficient medical image segmentation'
     year: '2025'
   Vbb5EGIAAAAJ:IUKN3-7HHlwC:
@@ -110,11 +114,11 @@ papers:
     title: Hardware-Friendly Positional Encoding Quantization for Fast and Memory-Efficient NeRF
     year: '2024'
   Vbb5EGIAAAAJ:L7CI7m0gUJcC:
-    citations: 18
+    citations: 19
     title: 'An MRF-based depth upsampling: Upsample the depth map with its own property'
     year: '2015'
   Vbb5EGIAAAAJ:LO7wyVUgiFcC:
-    citations: 17
+    citations: 18
     title: Fast global image smoothing via quasi weighted least squares
     year: '2024'
   Vbb5EGIAAAAJ:LhH-TYMQEocC:
@@ -146,11 +150,11 @@ papers:
     title: 'V-ABS: Action-Observer Driven Beam Search for Dynamic Visual Reasoning'
     year: '2026'
   Vbb5EGIAAAAJ:PVjk1bu6vJQC:
-    citations: 37
+    citations: 38
     title: Unsupervised Image Restoration with Quality-Task-Perception Loss
     year: '2022'
   Vbb5EGIAAAAJ:QYdC8u9Cj1oC:
-    citations: 2
+    citations: 3
     title: 'SRS: Siamese Reconstruction-Segmentation Network Based on Dynamic-Parameter Convolution'
     year: '2025'
   Vbb5EGIAAAAJ:S16KYo8Pm5AC:
@@ -174,15 +178,15 @@ papers:
     title: 'FIX-CLIP: Dual-Branch Hierarchical Contrastive Learning via Synthetic Captions for Better Understanding of Long Text'
     year: '2025'
   Vbb5EGIAAAAJ:WZBGuue-350C:
-    citations: 41
+    citations: 42
     title: 'RAPNet: Residual atrous pyramid network for importance-aware street scene parsing'
     year: '2020'
   Vbb5EGIAAAAJ:XvxMoLDsR5gC:
-    citations: 28
+    citations: 30
     title: '2M3DF: Advancing 3D Industrial Defect Detection With Multi-Perspective Multimodal Fusion Network'
     year: '2025'
   Vbb5EGIAAAAJ:Z5m8FVwuT1cC:
-    citations: 112
+    citations: 114
     title: Embedding bilateral filter in least squares for efficient edge-preserving image smoothing
     year: '2018'
   Vbb5EGIAAAAJ:_5tno0g5mFcC:
@@ -230,7 +234,7 @@ papers:
     title: Semantic scene labeling via deep nested level set
     year: '2020'
   Vbb5EGIAAAAJ:epqYDVWIO7EC:
-    citations: 71
+    citations: 72
     title: Semi-global weighted least squares in image filtering
     year: '2017'
   Vbb5EGIAAAAJ:fFSKOagxvKUC:
@@ -258,11 +262,11 @@ papers:
     title: 'D2S-RSG-SSD: Dual Double-Sampling with Random Sub-Samples Generation for Self-Supervised Real Image Denoising'
     year: '2026'
   Vbb5EGIAAAAJ:mlAyqtXpCwEC:
-    citations: 4
+    citations: 5
     title: 'CMF-IoU: Multi-Stage Cross-Modal Fusion 3D Object Detection with IoU Joint Prediction'
     year: '2025'
   Vbb5EGIAAAAJ:oNZyr7d5Mn4C:
-    citations: 141
+    citations: 142
     title: Real-time Image Smoothing via Iterative Least Squares
     year: '2020'
   Vbb5EGIAAAAJ:p__nRnzSRKYC:
@@ -306,7 +310,7 @@ papers:
     title: A generalized framework for edge-preserving and structure-preserving image smoothing
     year: '2020'
   Vbb5EGIAAAAJ:yFnVuubrUp4C:
-    citations: 0
+    citations: 1
     title: 'NAS-GS: Normal Alignment and Surface-Constrained Optimization of 3DGS for High-Fidelity Surface Reconstruction'
     year: '2025'
   Vbb5EGIAAAAJ:yMeIxYmEMEAC:
@@ -318,6 +322,6 @@ papers:
     title: "MVSSM: Motion-aware Visual State Space Model for Efficient Video Deblurring\u2013Supplementary Material\u2013"
     year: Unknown Year
   Vbb5EGIAAAAJ:zLWjf1WUPmwC:
-    citations: 183
+    citations: 184
     title: Robust color guided depth map restoration
     year: '2016'
