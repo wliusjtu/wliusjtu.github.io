@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-19'
+  last_updated: '2026-07-01'
 papers:
   Vbb5EGIAAAAJ:-FonjvnnhkoC:
     citations: 6
@@ -10,7 +10,7 @@ papers:
     title: Image super-resolution via efficient transformer embedding frequency decomposition with restart
     year: '2024'
   Vbb5EGIAAAAJ:2VqYfGB8ITEC:
-    citations: 2
+    citations: 3
     title: Mixed Gaussian splatting for high-quality rendering and reconstruction
     year: '2025'
   Vbb5EGIAAAAJ:3htObqc8RwsC:
@@ -22,7 +22,7 @@ papers:
     title: Cascaded context pyramid for full-resolution 3d semantic scene completion
     year: '2019'
   Vbb5EGIAAAAJ:4hFrxpcac9AC:
-    citations: 7
+    citations: 8
     title: 'Vb-kgn: Variational bayesian kernel generation networks for motion image deblurring'
     year: '2024'
   Vbb5EGIAAAAJ:4vMrXwiscB8C:
@@ -30,11 +30,11 @@ papers:
     title: 'Fore-Mamba3D: Mamba-based Foreground-Enhanced Encoding for 3D Object Detection'
     year: '2026'
   Vbb5EGIAAAAJ:5qfkUJPXOUwC:
-    citations: 164
+    citations: 165
     title: A generalized framework for edge-preserving and structure-preserving image smoothing
     year: '2022'
   Vbb5EGIAAAAJ:6ZxmRoH8BuwC:
-    citations: 25
+    citations: 26
     title: 'MambaMIM: Pre-training Mamba with state space token interpolation and its application to medical image segmentation'
     year: '2025'
   Vbb5EGIAAAAJ:86PQX7AUzd4C:
@@ -42,7 +42,7 @@ papers:
     title: 'CROON: Automatic Multi-LiDAR Calibration and Refinement Method in Road Scene'
     year: '2022'
   Vbb5EGIAAAAJ:9c2xU6iGI7YC:
-    citations: 25
+    citations: 26
     title: 'Gim: A million-scale benchmark for generative image manipulation detection and localization'
     year: '2025'
   Vbb5EGIAAAAJ:9pM33mqn1YgC:
@@ -74,7 +74,7 @@ papers:
     title: Automatic multi-LiDAR calibration and refinement method
     year: '2024'
   Vbb5EGIAAAAJ:GtLg2Ama23sC:
-    citations: 104
+    citations: 105
     title: 'Softclip: Softer cross-modal alignment makes clip stronger'
     year: '2023'
   Vbb5EGIAAAAJ:HIFyuExEbWQC:
@@ -91,14 +91,14 @@ papers:
     year: '2024'
   Vbb5EGIAAAAJ:HtS1dXgVpQUC:
     citations: 0
-    title: 'EDVD: Cross-modal Spatio-Temporal Fusion with Event and Diffusion for Video Deblurring'
+    title: 'EDVD: Cross-Modal Spatio-Temporal Fusion With Event and Diffusion for Video Deblurring'
     year: '2026'
   Vbb5EGIAAAAJ:ILKRHgRFtOwC:
     citations: 4
     title: Data driven robust image guided depth map restoration
     year: '2015'
   Vbb5EGIAAAAJ:IRz6iEL74y4C:
-    citations: 21
+    citations: 23
     title: 'Mobile U-ViT: Revisiting large kernel and U-shaped ViT for efficient medical image segmentation'
     year: '2025'
   Vbb5EGIAAAAJ:IUKN3-7HHlwC:
@@ -150,7 +150,7 @@ papers:
     title: 'V-ABS: Action-Observer Driven Beam Search for Dynamic Visual Reasoning'
     year: '2026'
   Vbb5EGIAAAAJ:PVjk1bu6vJQC:
-    citations: 38
+    citations: 41
     title: Unsupervised Image Restoration with Quality-Task-Perception Loss
     year: '2022'
   Vbb5EGIAAAAJ:QYdC8u9Cj1oC:
@@ -170,19 +170,19 @@ papers:
     title: 'Hyperfusion-Net: Hyper-densely reflective feature fusion for salient object detection'
     year: '2019'
   Vbb5EGIAAAAJ:VaXvl8Fpj5cC:
-    citations: 117
+    citations: 119
     title: Non-rigid object tracking via deep multi-scale spatial-temporal discriminative saliency maps
     year: '2020'
   Vbb5EGIAAAAJ:WJVC3Jt7v1AC:
-    citations: 11
+    citations: 12
     title: 'FIX-CLIP: Dual-Branch Hierarchical Contrastive Learning via Synthetic Captions for Better Understanding of Long Text'
     year: '2025'
   Vbb5EGIAAAAJ:WZBGuue-350C:
-    citations: 42
+    citations: 43
     title: 'RAPNet: Residual atrous pyramid network for importance-aware street scene parsing'
     year: '2020'
   Vbb5EGIAAAAJ:XvxMoLDsR5gC:
-    citations: 30
+    citations: 32
     title: '2M3DF: Advancing 3D Industrial Defect Detection With Multi-Perspective Multimodal Fusion Network'
     year: '2025'
   Vbb5EGIAAAAJ:Z5m8FVwuT1cC:
@@ -222,8 +222,8 @@ papers:
     title: 'InterSketch: An Interleaved Reasoning Model with Self-correcting Visual Sketch and Stepwise Reward'
     year: '2026'
   Vbb5EGIAAAAJ:cWzG1nlazyYC:
-    citations: 0
-    title: Exploiting All Mamba Fusion for Efficient RGB-D Tracking
+    citations: 1
+    title: Exploiting all mamba fusion for efficient RGB-D tracking
     year: '2026'
   Vbb5EGIAAAAJ:dBIO0h50nwkC:
     citations: 1
@@ -262,7 +262,7 @@ papers:
     title: 'D2S-RSG-SSD: Dual Double-Sampling with Random Sub-Samples Generation for Self-Supervised Real Image Denoising'
     year: '2026'
   Vbb5EGIAAAAJ:mlAyqtXpCwEC:
-    citations: 5
+    citations: 6
     title: 'CMF-IoU: Multi-Stage Cross-Modal Fusion 3D Object Detection with IoU Joint Prediction'
     year: '2025'
   Vbb5EGIAAAAJ:oNZyr7d5Mn4C:
@@ -278,7 +278,7 @@ papers:
     title: Enhancing few-shot object detection with modified faster R-CNN and transfer learning
     year: '2023'
   Vbb5EGIAAAAJ:sNmaIFBj_lkC:
-    citations: 41
+    citations: 42
     title: '3D-MMFN: Multi-level multimodal fusion network for 3D industrial image anomaly detection'
     year: '2025'
   Vbb5EGIAAAAJ:tYavs44e6CUC:
