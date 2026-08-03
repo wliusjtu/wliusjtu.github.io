@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-29'
+  last_updated: '2026-08-03'
 papers:
   Vbb5EGIAAAAJ:-FonjvnnhkoC:
-    citations: 6
+    citations: 7
     title: Blur kernel estimation of noisy-blurred image via dynamic structure prior
     year: '2020'
   Vbb5EGIAAAAJ:0izLItjtcgwC:
@@ -16,13 +16,13 @@ papers:
   Vbb5EGIAAAAJ:3htObqc8RwsC:
     citations: 1
     title: 'T-Code: Simple Temporal Latent Code for Efficient Dynamic View Synthesis'
-    year: '2023'
+    year: '2024'
   Vbb5EGIAAAAJ:4MWp96NkSFoC:
-    citations: 96
+    citations: 98
     title: Cascaded context pyramid for full-resolution 3d semantic scene completion
     year: '2019'
   Vbb5EGIAAAAJ:4hFrxpcac9AC:
-    citations: 9
+    citations: 10
     title: 'Vb-kgn: Variational bayesian kernel generation networks for motion image deblurring'
     year: '2024'
   Vbb5EGIAAAAJ:4vMrXwiscB8C:
@@ -30,23 +30,23 @@ papers:
     title: 'Fore-Mamba3D: Mamba-based Foreground-Enhanced Encoding for 3D Object Detection'
     year: '2026'
   Vbb5EGIAAAAJ:5qfkUJPXOUwC:
-    citations: 167
+    citations: 166
     title: A generalized framework for edge-preserving and structure-preserving image smoothing
     year: '2022'
   Vbb5EGIAAAAJ:6ZxmRoH8BuwC:
-    citations: 29
-    title: 'MambaMIM: Pre-training Mamba with state space token interpolation and its application to medical image segmentation'
+    citations: 30
+    title: 'Mambamim: Pre-training mamba with state space token interpolation and its application to medical image segmentation'
     year: '2025'
   Vbb5EGIAAAAJ:86PQX7AUzd4C:
-    citations: 28
+    citations: 29
     title: 'CROON: Automatic Multi-LiDAR Calibration and Refinement Method in Road Scene'
     year: '2022'
   Vbb5EGIAAAAJ:9c2xU6iGI7YC:
-    citations: 27
+    citations: 29
     title: 'Gim: A million-scale benchmark for generative image manipulation detection and localization'
     year: '2025'
   Vbb5EGIAAAAJ:9pM33mqn1YgC:
-    citations: 22
+    citations: 23
     title: Towards Better Data Exploitation in Self-Supervised Monocular Depth Estimation
     year: '2023'
   Vbb5EGIAAAAJ:BwyfMAYsbu0C:
@@ -58,7 +58,7 @@ papers:
     title: 'Data Value Density Enhancement for Large Language Model Training: A Comprehensive Survey'
     year: '2026'
   Vbb5EGIAAAAJ:DUooU5lO8OsC:
-    citations: 2
+    citations: 3
     title: 'Mambamim: Pre-training mamba with state space token-interpolation'
     year: '2024'
   Vbb5EGIAAAAJ:EYYDruWGBe4C:
@@ -74,7 +74,7 @@ papers:
     title: Automatic multi-LiDAR calibration and refinement method
     year: '2024'
   Vbb5EGIAAAAJ:GtLg2Ama23sC:
-    citations: 107
+    citations: 108
     title: 'Softclip: Softer cross-modal alignment makes clip stronger'
     year: '2023'
   Vbb5EGIAAAAJ:HIFyuExEbWQC:
@@ -90,7 +90,7 @@ papers:
     title: 'Opus: occupancy prediction using a sparse set'
     year: '2024'
   Vbb5EGIAAAAJ:HtS1dXgVpQUC:
-    citations: 4
+    citations: 5
     title: 'EDVD: Cross-modal spatio-temporal fusion with event and diffusion for video deblurring'
     year: '2026'
   Vbb5EGIAAAAJ:ILKRHgRFtOwC:
@@ -130,16 +130,16 @@ papers:
     title: Robust high quality image guided depth upsampling
     year: '2015'
   Vbb5EGIAAAAJ:NXb4pA-qfm4C:
-    citations: 4
+    citations: 5
     title: 'Fastc: A fast attentional framework for semantic traversability classification using point cloud'
-    year: '2024'
+    year: '2023'
   Vbb5EGIAAAAJ:ODE9OILHJdcC:
     citations: 1
     title: 'SRSNetwork: Siamese reconstruction-segmentation networks based on dynamic-parameter convolution'
     year: '2023'
   Vbb5EGIAAAAJ:OR75R8vi5nAC:
     citations: 1
-    title: 'ASTNet: Adaptive Spatio-temporal Transformer for Efficient Video Deblurring'
+    title: 'ASTNet: Adaptive spatio-temporal transformer for efficient video deblurring'
     year: '2025'
   Vbb5EGIAAAAJ:OTTXONDVkokC:
     citations: 2
@@ -154,8 +154,8 @@ papers:
     title: Unsupervised Image Restoration with Quality-Task-Perception Loss
     year: '2022'
   Vbb5EGIAAAAJ:QYdC8u9Cj1oC:
-    citations: 4
-    title: 'SRS: Siamese Reconstruction-Segmentation Network Based on Dynamic-Parameter Convolution'
+    citations: 5
+    title: 'SRS: Siamese reconstruction-segmentation network based on dynamic-parameter convolution'
     year: '2025'
   Vbb5EGIAAAAJ:S16KYo8Pm5AC:
     citations: 48
@@ -166,7 +166,7 @@ papers:
     title: Upsampling the depth map with its own properties
     year: '2015'
   Vbb5EGIAAAAJ:URolC5Kub84C:
-    citations: 61
+    citations: 62
     title: 'Hyperfusion-Net: Hyper-densely reflective feature fusion for salient object detection'
     year: '2019'
   Vbb5EGIAAAAJ:VaXvl8Fpj5cC:
@@ -174,7 +174,7 @@ papers:
     title: Non-rigid object tracking via deep multi-scale spatial-temporal discriminative saliency maps
     year: '2020'
   Vbb5EGIAAAAJ:WJVC3Jt7v1AC:
-    citations: 12
+    citations: 13
     title: 'FIX-CLIP: Dual-Branch Hierarchical Contrastive Learning via Synthetic Captions for Better Understanding of Long Text'
     year: '2025'
   Vbb5EGIAAAAJ:WZBGuue-350C:
@@ -182,11 +182,11 @@ papers:
     title: 'RAPNet: Residual atrous pyramid network for importance-aware street scene parsing'
     year: '2020'
   Vbb5EGIAAAAJ:XvxMoLDsR5gC:
-    citations: 32
-    title: '2M3DF: Advancing 3D Industrial Defect Detection With Multi-Perspective Multimodal Fusion Network'
+    citations: 31
+    title: '2m3df: Advancing 3d industrial defect detection with multi-perspective multimodal fusion network'
     year: '2025'
   Vbb5EGIAAAAJ:Z5m8FVwuT1cC:
-    citations: 116
+    citations: 115
     title: Embedding bilateral filter in least squares for efficient edge-preserving image smoothing
     year: '2018'
   Vbb5EGIAAAAJ:_5tno0g5mFcC:
@@ -194,7 +194,7 @@ papers:
     title: 'STDepth: Leveraging semantic-textural information in transformers for self-supervised monocular depth estimation'
     year: '2025'
   Vbb5EGIAAAAJ:_FM0Bhl9EiAC:
-    citations: 51
+    citations: 50
     title: Recurrent multi-scale transformer for high-resolution salient object detection
     year: '2023'
   Vbb5EGIAAAAJ:_axFR9aDTf0C:
@@ -211,10 +211,10 @@ papers:
     year: '2024'
   Vbb5EGIAAAAJ:anf4URPfarAC:
     citations: 2
-    title: Online lidar-camera extrinsic parameters self-checking and recalibration
+    title: Online LiDAR-camera extrinsic parameters self-checking and recalibration
     year: '2024'
   Vbb5EGIAAAAJ:b1wdh0AR-JQC:
-    citations: 75
+    citations: 74
     title: Improving video saliency detection via localized estimation and spatiotemporal refinement
     year: '2018'
   Vbb5EGIAAAAJ:bKqednn6t2AC:
@@ -234,12 +234,12 @@ papers:
     title: Semantic scene labeling via deep nested level set
     year: '2020'
   Vbb5EGIAAAAJ:epqYDVWIO7EC:
-    citations: 73
+    citations: 72
     title: Semi-global weighted least squares in image filtering
     year: '2017'
   Vbb5EGIAAAAJ:fFSKOagxvKUC:
-    citations: 1
-    title: 'Sparse Annotation, Dense Supervision: Unleashing Self-Training Power for Occupancy Prediction With 2D Labels'
+    citations: 2
+    title: 'Sparse annotation, dense supervision: Unleashing self-training power for occupancy prediction with 2D labels'
     year: '2025'
   Vbb5EGIAAAAJ:g3aElNc5_aQC:
     citations: 12
@@ -263,10 +263,10 @@ papers:
     year: '2026'
   Vbb5EGIAAAAJ:mlAyqtXpCwEC:
     citations: 6
-    title: 'CMF-IoU: Multi-Stage Cross-Modal Fusion 3D Object Detection with IoU Joint Prediction'
+    title: 'CMF-IoU: Multi-stage cross-modal fusion 3D object detection with IoU joint prediction'
     year: '2025'
   Vbb5EGIAAAAJ:oNZyr7d5Mn4C:
-    citations: 143
+    citations: 144
     title: Real-time Image Smoothing via Iterative Least Squares
     year: '2020'
   Vbb5EGIAAAAJ:p__nRnzSRKYC:
@@ -278,7 +278,7 @@ papers:
     title: Enhancing few-shot object detection with modified faster R-CNN and transfer learning
     year: '2023'
   Vbb5EGIAAAAJ:sNmaIFBj_lkC:
-    citations: 44
+    citations: 45
     title: '3D-MMFN: Multi-level multimodal fusion network for 3D industrial image anomaly detection'
     year: '2025'
   Vbb5EGIAAAAJ:tYavs44e6CUC:
@@ -290,7 +290,7 @@ papers:
     title: Multi-task classification with sequential instances and tasks
     year: '2018'
   Vbb5EGIAAAAJ:uWiczbcajpAC:
-    citations: 97
+    citations: 98
     title: Deep gated attention networks for large-scale street-level scene segmentation
     year: '2019'
   Vbb5EGIAAAAJ:umqufdRvDiIC:
